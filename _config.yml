@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://StephenEricHuff.github.io
+title: Stephen Eric Huff
+tagline: My Blog
+description: My awesome new site
+paginate: 5
